@@ -424,7 +424,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2026 John Mwangi Gikundi. All rights reserved.</p>
+            <p>&copy; 2019 John Mwangi Gikundi. All rights reserved.</p>
           </div>
         </div>
       </footer>
